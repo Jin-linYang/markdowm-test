@@ -1,5 +1,7 @@
-# markdowm tst
+# markdowm test
 参考了(https://www.jianshu.com/p/191d1e21f7ed)
+
+更多高级技巧(https://www.runoob.com/markdown/md-advance.html)
 
 ## 标题
 在想要设置为标题的文字前面加#来表示
