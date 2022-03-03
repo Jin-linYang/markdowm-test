@@ -141,17 +141,8 @@ title可加可不加
 
 注：为了防止转译，前后三个反引号处加了小括号，实际是没有的。这里只是用来演示，实际中去掉两边小括号即可。
 
-## 流程图
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
-
+## 流程图（这里我试的有问题，显示不出）
+```
 flow
 st=>start: 开始
 op=>operation: My Operation
@@ -160,4 +151,8 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-&
+```
+
+
+
+
